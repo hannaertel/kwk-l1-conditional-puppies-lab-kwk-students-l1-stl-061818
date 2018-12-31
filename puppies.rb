@@ -30,7 +30,7 @@ def some_puppies(puppies = 5)
     puts "watchout"
   end
 end
-some_puppies
+some_puppies(puppies = 11)
 
 
 # BONUS
