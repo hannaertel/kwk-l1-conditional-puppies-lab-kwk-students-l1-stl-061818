@@ -45,4 +45,4 @@ def new_animal(puppies = 0, cats = 0)
     puts "oof"
   end
 end
-new_animal(puppies == 2, cats == 0)
+new_animal(puppies = 2, cats = 3)
