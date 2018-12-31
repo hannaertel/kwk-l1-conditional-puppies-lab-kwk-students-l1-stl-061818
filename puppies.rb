@@ -12,7 +12,7 @@ end
 less_puppies = 3
 if less_puppies<3
   puts "Good job"
-  elsif less_puppies=3
+  elsif less_puppies==3
   puts "slow down"
 else
   puts "stop"
